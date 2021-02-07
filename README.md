@@ -21,7 +21,7 @@ and type "python", which should lead you to a Microsoft Store page to download P
 
 Open the folder where the game is. This folder should be called "F7_game", \
 unless you renamed it. In the top bar of the file explorer that tells you the folder's location\
-(shown in this image: https://gyazo.com/d66c98e04f5ff02937dd8f5f3147cd99),
+(shown in this image: https://i.gyazo.com/d66c98e04f5ff02937dd8f5f3147cd99.png),
 type in 
 ```
 cmd
