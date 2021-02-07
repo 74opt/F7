@@ -1,6 +1,6 @@
 # F7 README
 
-This will guide you with running the game if the .exe doesn't work.
+This will guide you with running the game.
 
 ## Systems
 
