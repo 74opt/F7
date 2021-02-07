@@ -1,0 +1,184 @@
+Use to keep track of what I need to make/add:
+https://trello.com/b/i5bqJCmP/f7-development
+
+Use to log more specifics of what I made:
+12/16:
+Created a class for weapons, started on the title and beginning
+cutscene. In the class has a function to display weapon stats.
+
+12/17:
+Made a trello, changed some formatting on the weapon stats (currently only supports melee)
+Weapon type notes:
+  melee
+  projectile
+  single bullet gun
+  shotgun (works identically to a multi bullet)
+  multi bullet gun
+  explosive
+
+Enemy type notes: (ADD MORE AS TIME PROGRESSES)
+  gunslinger
+  slasher
+
+Finished intro cutscene, made enemy class, made player class
+w/ inventory and worked on weapons in inventory
+
+12/18:
+Added on to my inventory, a bunch of ideas and random
+pseudocode were made in my notebook, moved project to pycharm
+
+12/19:
+Got the game to run on windows command prompt. Added a README, fixed a bug.
+Started to work on combat menu. Made some ideas for consumables
+
+12/20:
+Fixed bug with removing weapon and that it was not being removed,
+updated F7 logo, started working on consumables
+
+12/21:
+Tried some tests with audio. Works, but the file locations are a bit wonky, so it basically only
+works on my computer.
+
+Updates: Audio should be fine, but I'd need to get someone else to help test that with a different computer.
+Also made an exe for the game! Worked on consumables, started work on inspect weapon, added some more
+options in inventory.
+
+12/22:
+Worked on using the toolbox in the inventory, works pretty well. Started on making a map. Fixed
+a bug with deleting a weapon.
+
+12/23:
+Started to make different types of textures for different grass and stone and dirt and stuff
+Added on to stuff for map-making, made percentages for the inventory health and exp
+
+12/24:
+Fixed bugs with the movement functions.
+
+Update: The game now has movement.
+
+YEAHHHHHH WE GOT MOVEMENT THAT TOOK ME SO LONG
+
+12/25:
+Did some changes to the gameplay ideas and expanded on them, added to the travel menu.
+Found bug related to switching between inventory and travel, trying to fix
+
+Update: Working on minigames instead
+
+12/26:
+Kept working on minigames.
+
+Update: Finished minigames
+
+12/27:
+Revamped the movement, which now means that it works correctly, starting work on the combat
+
+Update: Started to create weapons, enemies, and shields
+
+12/28:
+Started work on the loot from salvaging and hacking
+
+Update: Added loot dropping for salvaging + hacking, and made 30% of all minigames
+to not find anything
+
+Update 2: Worked on and finished with spawning enemies for combat
+
+12/29:
+Worked on weapon swap and running away in combat, and fixed/balanced some health stuff
+
+12/30:
+Working on flavor text for battle, and working on a bunch of the battle mechanics
+
+12/31:
+Going to continue working on battle mechanics
+
+Note for me: Add rate of fire/pellets stat to weapons
+
+Note 2: Fix the showstats of weapons
+
+1/1:
+Fixed weapon showstats, working on shield mechanics during combat for the player
+
+Update: Finished shield, working on xp gain and stuff, will work on player fighting and/or consumables
+tomorrow
+
+1/2:
+Finished with player fighting + checking if enemy or player dies. Have to work on consumables and prefixes for weapons.
+Also removed worn and corrosive prefixes.
+
+Note: Might just list my current inspirations for this game now
+Cyberpunk 2020
+The Fallout series
+The Borderlands series
+Terraria
+
+Additional Note:
+Game will be ready for alpha testing with other people once i finish combat
+
+Final note:
+too many bugs.
+
+1/3:
+Fixed getting weapons from combat, bug where enemies will have too much health/damage, bug where combat
+still appears when exiting game
+
+Update: Started work on consumables, finished flashbang
+
+BIG UPDATE:
+Finished consumables
+Released the first test build of the game
+
+Here's something that def needs changing:
+
+Nirjhor Today at 8:37 PM
+Okay, so pressing in rapid succession to move does not really work
+At all
+
+matthieu Today at 8:37 PM
+i think i might just change that to inputs
+the keyboard listener is
+it is
+
+Nirjhor Today at 8:38 PM
+and also, its a lot of delay for this
+
+matthieu Today at 8:38 PM
+i know
+
+Nirjhor Today at 8:38 PM
+id rather it be like a dialog and I say like move down, and then the distance I want to go
+
+...
+
+Nirjhor Today at 8:40 PM
+Input any key to exit is either broken or takes longer than 4 mins
+
+1/4:
+Movement has been changed, working on music stuff + threading
+Finished the first map of 3 i have planned (there could be more if i have time), working on 2nd
+
+1/5:
+I am sad to say this will be the first day where i have not worked on the project,
+and maybe i might not even do it tomorrow. English class sucks man.
+
+1/6:
+Working on codex tutorials
+
+1/7:
+Finished tutorials, will work on moving from map to map
+
+1/8:
+Might have to remove multi-level travels, so that's just gonna be left in the code as a
+relic. That leaves only saving and crafting.
+
+Update: Finished the music
+
+1/9:
+Finished the shield drops for scanning
+
+Only saving and crafting left.
+
+1/10:
+Working on saving rn, thank you Nirjhor + Dashiell for telling me about JSON
+
+1/11:
+
